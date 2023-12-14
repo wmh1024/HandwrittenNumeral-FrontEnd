@@ -27,6 +27,12 @@
 - 项目前端：https://github.com/wmh1024/HandwrittenNumeral-FrontEnd
 - 项目后端：https://github.com/wmh1024/HandwrittenNumeral-BackEnd
 
+## 预览图
+
+![image](img/1.jpg)
+![image](img/2.jpg)
+
+
 ## 上手指南
 
 克隆此项目
